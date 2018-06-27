@@ -1,0 +1,46 @@
+Graph generation time: 0.060344
+Edge creation time: 0.040515
+Items Count: 102, Total number of connections: 4938
+
+PageRank calculation time: 0.175055
+Get recommendation time: 0.000218
+Top 5 Recommended Items for current item ASIN: 0590108859:
+From same Category "Children's Books[4]                " are: ['0590568833', '0613100093', '0671562711', '006440823X', '0064470954']
+From same Group    "Book                               " are: ['1563824035', '0834210126', '014023778X', '0786863919', '1858600073']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['0590568833', '0613100093', '0671562711', '006440823X', '0064470954']
+Amazon suggested similar                                    : ['0439043638', '0590138596', '0590216872', '0439992575', '043999232X']
+
+Get recommendation time: 8.50000000001e-05
+Top 5 Recommended Items for current item ASIN: B00000IC8L:
+From same Category "Today's Deals in DVD[409298]       " are: []
+From same Group    "DVD                                " are: ['B00000IC8Z', '0790747324', 'B000056PNB']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['B00000IC8Z', '0790747324', 'B000056PNB', '0590568833', '0613100093']
+Amazon suggested similar                                    : ['B0002MHDY2', 'B00006SFJ7', '1559409053', 'B00009YXEW', '1559746777']
+
+Get recommendation time: 0.000177
+Top 5 Recommended Items for current item ASIN: 0962096733:
+From same Category "Nonfiction[53]                     " are: ['3895088994', '0140445684', '0446389862', '0767905288']
+From same Group    "Book                               " are: ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['3895088994', '0140445684', '0446389862', '0767905288', '0590568833']
+Amazon suggested similar                                    : ['0393059278', '0439145449', '0971412928', '0971412901', '159160236X']
+
+Get recommendation time: 6.90000000001e-05
+Top 5 Recommended Items for current item ASIN: B00000IC8F:
+From same Category "( B )[411316]                      " are: []
+From same Group    "DVD                                " are: ['B00000IC8Z', '0790747324', 'B000056PNB']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['B00000IC8Z', '0790747324', 'B000056PNB', '0590568833', '0613100093']
+Amazon suggested similar                                    : ['B00023P4O2', 'B00005LC4C', 'B0000WN0PA', 'B0001FGBZM', '0783233582']
+
+Get recommendation time: 0.000101
+Top 5 Recommended Items for current item ASIN: B000004BTK:
+From same Category "Travel[605012]                     " are: ['B000002NHO']
+From same Group    "Music                              " are: ['B000007R0T', 'B000000HFH', 'B0000262WI', 'B0000296JH', 'B000000HF0']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['B000002NHO', 'B000007R0T', 'B000000HFH', 'B0000262WI', 'B0000296JH']
+Amazon suggested similar                                    : ['B000000E7S', 'B000000E7N', 'B0000003QR', 'B0000003QH', 'B000000E7T']
+
+Total time elapsed: 0.277138

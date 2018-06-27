@@ -1,0 +1,63 @@
+Top 5 Recommended Items for current item ASIN: 0767905288:
+From same Category "Nonfiction[53]                     " are: ['3895088994', '0140445684', '0962096733', '0446389862']
+From same Group    "Book                               " are: ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['3895088994', '0140445684', '0962096733', '0446389862', '0590568833']
+Amazon suggested similar                                    : ['0767908481', '0767913795', '0060514558', '0060582510', '0060544244']
+
+Top 5 Recommended Items for current item ASIN: 0790747324:
+From same Category "Science Fiction & Fantasy[163431]  " are: []
+From same Group    "DVD                                " are: ['B00000IC8Z', 'B000056PNB']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['B00000IC8Z', 'B000056PNB', '0590568833', '0613100093', '1563824035']
+Amazon suggested similar                                    : ['B00007JMD8', '6305350221', 'B00004RF9B', 'B00005JKFR', 'B00005NG6A']
+
+Top 5 Recommended Items for current item ASIN: 0840733208:
+From same Category "Religion & Spirituality[22]        " are: ['1858600073', '0687054532', '0883680947', '0849962676', '0310485002']
+From same Group    "Book                               " are: ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['1858600073', '0687054532', '0883680947', '0849962676', '0310485002']
+Amazon suggested similar                                    : ['1565076370', '0609807838', '0310492408', '1585420042', '0802463827']
+
+Top 5 Recommended Items for current item ASIN: B000000HFH:
+From same Category "Dance & DJ[7]                      " are: ['B000000HF0', 'B0000296JO']
+From same Group    "Music                              " are: ['B000007R0T', 'B000004BTK', 'B0000262WI', 'B0000296JH', 'B000002NHO']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['B000000HF0', 'B0000296JO', 'B000007R0T', 'B000004BTK', 'B0000262WI']
+Amazon suggested similar                                    : []
+
+Top 5 Recommended Items for current item ASIN: B0000262WI:
+From same Category "Jazz[34]                           " are: ['B000007R0T', 'B000002NHZ']
+From same Group    "Music                              " are: ['B000000HFH', 'B000004BTK', 'B0000296JH', 'B000002NHO', 'B000000HF0']
+From all categories are                                     : ['0590568833', '0613100093', '1563824035', '0834210126', '014023778X']
+Combined top 5 recommendations (category > group > other)   : ['B000007R0T', 'B000002NHZ', 'B000000HFH', 'B000004BTK', 'B0000296JH']
+Amazon suggested similar                                    : ['B000025ZP8', 'B00002EPJH', 'B0000247YQ', 'B0000261GX', 'B000024SN9']
+
+Top 5 Recommended Items for current item ASIN: 1570621284:
+From same Category "Religion & Spirituality[22]        " are: ['0060630965', '0849907209', '0736907661', '0140193669', '1565073347']
+From same Group    "Book                               " are: ['0931948320', '0452280400', '019506075X', '0521565812', '1579890164']
+From all categories are                                     : ['0931948320', '0452280400', '019506075X', '0521565812', '1579890164']
+Combined top 5 recommendations (category > group > other)   : ['0060630965', '0849907209', '0736907661', '0140193669', '1565073347']
+Amazon suggested similar                                    : ['157322345X', '1570629331', '1570629579', '1570628181', '1570628394']
+
+Top 5 Recommended Items for current item ASIN: 0767905288:
+From same Category "Nonfiction[53]                     " are: ['0760312087', '0253210674', '0882951254', '0465098290', '0760301352']
+From same Group    "Book                               " are: ['0931948320', '0452280400', '019506075X', '0521565812', '1579890164']
+From all categories are                                     : ['0931948320', '0452280400', '019506075X', '0521565812', '1579890164']
+Combined top 5 recommendations (category > group > other)   : ['0760312087', '0253210674', '0882951254', '0465098290', '0760301352']
+Amazon suggested similar                                    : ['0767908481', '0767913795', '0060514558', '0060582510', '0060544244']
+
+Top 5 Recommended Items for current item ASIN: B0000262WI:
+From same Category "Jazz[34]                           " are: ['B000003DGW', 'B0000027K0', 'B000005IZH', 'B00000363W', 'B000009RML']
+From same Group    "Music                              " are: ['B000000DYZ', 'B000005KRA', 'B000003QH2', 'B000004BTK', 'B000002L4I']
+From all categories are                                     : ['0931948320', '0452280400', '019506075X', '0521565812', '1579890164']
+Combined top 5 recommendations (category > group > other)   : ['B000003DGW', 'B0000027K0', 'B000005IZH', 'B00000363W', 'B000009RML']
+Amazon suggested similar                                    : ['B000025ZP8', 'B00002EPJH', 'B0000247YQ', 'B0000261GX', 'B000024SN9']
+
+Top 5 Recommended Items for current item ASIN: 0790747324:
+From same Category "Science Fiction & Fantasy[163431]  " are: ['B00005LC3X', '6305350221', 'B00005JKHP', 'B00003CXFG', 'B00003CY5D']
+From same Group    "DVD                                " are: ['B00004TX05', 'B00005YUOC', 'B00006JDUW', '0792299922', '0780022343']
+From all categories are                                     : ['0931948320', '0452280400', '019506075X', '0521565812', '1579890164']
+Combined top 5 recommendations (category > group > other)   : ['B00005LC3X', '6305350221', 'B00005JKHP', 'B00003CXFG', 'B00003CY5D']
+Amazon suggested similar                                    : ['B00007JMD8', '6305350221', 'B00004RF9B', 'B00005JKFR', 'B00005NG6A']
+Items matched with our recommendation with Amazon: set(['6305350221'])
